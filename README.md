@@ -1,0 +1,2 @@
+# YandexQuotes
+Yandex Quotes Client.
