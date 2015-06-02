@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexQuotes.Core", "YandexQuotes.Core\YandexQuotes.Core.csproj", "{09C48FEC-5728-48DE-8C8E-389A434BBB57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexQuotes.Environment", "YandexQuotes.Environment\YandexQuotes.Environment.csproj", "{C0F42262-33F0-48F8-8521-C02EAF65039F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexQuotes.View.WPF", "YandexQuotes.View.WPF\YandexQuotes.View.WPF.csproj", "{034F6FF0-3962-497C-B460-32B3870CB3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C48FEC-5728-48DE-8C8E-389A434BBB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C48FEC-5728-48DE-8C8E-389A434BBB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C48FEC-5728-48DE-8C8E-389A434BBB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C48FEC-5728-48DE-8C8E-389A434BBB57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F42262-33F0-48F8-8521-C02EAF65039F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F42262-33F0-48F8-8521-C02EAF65039F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F42262-33F0-48F8-8521-C02EAF65039F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F42262-33F0-48F8-8521-C02EAF65039F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034F6FF0-3962-497C-B460-32B3870CB3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034F6FF0-3962-497C-B460-32B3870CB3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034F6FF0-3962-497C-B460-32B3870CB3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034F6FF0-3962-497C-B460-32B3870CB3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

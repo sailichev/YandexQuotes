@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quotes url-format="http://news.yandex.ru/quotes/graph_{0}.xml">
+  <series id="1" name="Динамика курса USD ЦБ РФ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="5" name="Динамика изменения значения бивалютной корзины, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="6" name="Динамика курса EUR/USD" unit="ед." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="7" name="Динамика курса USD/JPY" unit="ед." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="10" name="Динамика цен на Золото (comex.GC), USD/тройская унция" unit="USD" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="12" name="Динамика индекса Dow (DJIA)" unit="пункты" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="13" name="Динамика индекса FTSE 100" unit="пункты" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="17" name="Динамика индекса NASDAQ" unit="пункты" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="18" name="Динамика курса USD НБРБ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="19" name="Динамика курса RUB НБРБ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="23" name="Динамика курса EUR ЦБ РФ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="24" name="Динамика курса GBP ЦБ РФ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="25" name="Динамика курса JPY ЦБ РФ, руб. за 100 JPY" unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="29" name="Динамика курса акций ГАЗПРОМ ао, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="30" name="Динамика курса USD/EUR" unit="ед." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="31" name="Динамика курса USD/CHF" unit="ед." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="32" name="Динамика курса GBP/USD" unit="ед." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="42" name="Динамика курса акций YNDX, $" unit="USD" enabled="true">
+    <time-zone name="America/New_York">
+      <offset hours="-5" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="43" name="Динамика курса акций YNDX Московская биржа, руб" unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="50" name="Динамика индекса РТС" unit="пункты" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="54" name="Динамика курса акций ЛУКОЙЛ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="58" name="Динамика курса акций Ростел -ао, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="60" name="Динамика курса акций Сбербанк, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="61" name="Динамика курса акций Сургнфгз ао, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="64" name="Динамика курса акций АВТОВАЗ ао, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="68" name="Динамика курса акций СевСт-ао, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="69" name="Динамика курса акций ГМКНорНик, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="89" name="Динамика курса акций Аэрофлот, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="183" name="Динамика курса акций ВТБ ао, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="193" name="Динамика курса акций ОГК-5 ао, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="235" name="Динамика курса акций МТС-ао, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="282" name="Динамика курса акций Роснефть, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="379" name="Динамика курса акций Уркалий-ао, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1006" name="Динамика цен на Нефть Brent (ICE.Brent), USD/баррель" unit="USD" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1007" name="Динамика индекса Hang Seng" unit="пункты" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1013" name="Динамика индекса ММВБ" unit="пункты" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1032" name="Динамика индекса IBOVESPA" unit="пункты" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1500" name="Динамика цен на Алюминий (LME.Alum), USD/тонна" unit="USD" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1501" name="Динамика цен на Медь (LME.Copper), USD/тонна" unit="USD" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1502" name="Динамика цен на Никель (LME.Nickel), USD/тонна" unit="USD" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1503" name="Динамика цен на Олово (LME.Tin), USD/тонна" unit="USD" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1504" name="Динамика цен на Палладий (NYMEX.PA), USD/тройская унция" unit="USD" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1505" name="Динамика цен на Платина (NYMEX.PL), USD/тройская унция" unit="USD" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1506" name="Динамика цен на Серебро (comex.SI), USD/тройская унция" unit="USD" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="1507" name="Динамика цен на Цинк (LME.Zinc), USD/тонна" unit="USD" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="2000" name="Динамика курса EUR ММВБ, руб. (EURTOM_UTS)" unit="руб." enabled="false">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="2002" name="Динамика курса USD ММВБ, руб. (USDTOM_UTS)" unit="руб." enabled="false">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="2400" name="Динамика индекса ММВБ-10" unit="пункты" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="2503" name="Динамика индекса РТС-2" unit="пункты" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="2505" name="Динамика индекса Nikkei 225" unit="пункты" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="2506" name="Динамика индекса S&amp;P 500" unit="пункты" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="3001" name="Динамика курса GBP НБУ, грн. за 100 GBP" unit="грн." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="3003" name="Динамика курса BYR НБУ, грн. за 10 BYR" unit="грн." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="3005" name="Динамика курса USD НБУ, грн. за 100 USD" unit="грн." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="3009" name="Динамика курса KZT НБУ, грн. за 100 KZT" unit="грн." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="3015" name="Динамика курса RUB НБУ, грн. за 10 RUB" unit="грн." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="3024" name="Динамика курса CHF НБУ, грн. за 100 CHF" unit="грн." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="3026" name="Динамика курса JPY НБУ, грн. за 1000 JPY" unit="грн." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="3027" name="Динамика курса EUR НБУ, грн. за 100 EUR" unit="грн." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="3029" name="Динамика курса TRY НБУ, грн. за 100 TRY" unit="грн." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="4000" name="Динамика курса EUR НБРБ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="4001" name="Динамика курса CHF НБРБ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="4002" name="Динамика курса GBP НБРБ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="4003" name="Динамика курса JPY НБРБ, руб. за 10 JPY" unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="4004" name="Динамика курса UAH НБРБ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="4005" name="Динамика курса KZT НБРБ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="4006" name="Динамика курса PLN НБРБ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="4007" name="Динамика курса TRY НБРБ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="4008" name="Динамика курса BGN НБРБ, руб." unit="руб." enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="5000" name="Динамика курса USD НБРК, тенге" unit="тенге" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="5001" name="Динамика курса EUR НБРК, тенге" unit="тенге" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="5002" name="Динамика курса RUB НБРК, тенге" unit="тенге" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="5003" name="Динамика курса CHF НБРК, тенге" unit="тенге" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="5004" name="Динамика курса GBP НБРК, тенге" unit="тенге" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="5005" name="Динамика курса JPY НБРК, тенге" unit="тенге" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="5006" name="Динамика курса UAH НБРК, тенге" unit="тенге" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="5007" name="Динамика курса BYR НБРК, тенге" unit="тенге" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="5008" name="Динамика курса TRY НБРК, тенге" unit="тенге" enabled="true">
+    <time-zone name="Europe/Moscow">
+      <offset hours="3" minutes="0" />
+    </time-zone>
+  </series>
+  <series id="5100" name="Динамика индекса KASE" unit="пункты" enabled="true">
+    <time-zone name="Asia/Almaty">
+      <offset hours="6" minutes="0" />
+    </time-zone>
+  </series>
+</quotes>

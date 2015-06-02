@@ -1,0 +1,38 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:chart="http://schemas.abtsoftware.co.uk/scichart"
+        x:Class="YandexQuotes.View.WPF.MainWindow"
+        Title="Yandex Quotes" Height="768" Width="1024">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <chart:SciChartSurface YAxes="{Binding YAxesCollection}" SeriesSource="{Binding SeriesCollection}" Grid.Column="0" Width="Auto" chart:ThemeManager.Theme="BrightSpark">
+            <chart:SciChartSurface.XAxis>
+                <chart:DateTimeAxis AutoRange="Always" />
+            </chart:SciChartSurface.XAxis>
+            <chart:SciChartSurface.ChartModifier>
+                <chart:ModifierGroup>
+                    <chart:LegendModifier ShowLegend="True" Orientation="Vertical" Margin="5" LegendPlacement="Inside" GetLegendDataFor="AllSeries" ShowVisibilityCheckboxes="False"/>
+                    <chart:RolloverModifier />
+                    <chart:XAxisDragModifier />
+                </chart:ModifierGroup>
+            </chart:SciChartSurface.ChartModifier>
+        </chart:SciChartSurface>
+     
+        <GridSplitter Grid.Column="1" HorizontalAlignment="Center" Width="3" VerticalAlignment="Stretch" Background="DarkGray" />
+
+        <ScrollViewer Grid.Column="2" Width="Auto">
+            <ItemsControl ItemsSource="{Binding Quotes}" IsTabStop="False" Width="Auto" MinWidth="150">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <CheckBox Content="{Binding Name}" IsChecked="{Binding IsChecked}" />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+    </Grid>
+</Window>
