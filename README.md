@@ -1,3 +1,2 @@
-# YandexQuotes
-Yandex Quotes Client.
-Via WPF + SCICHART.
+# yandex-quotes
+Yandex Quotes Client via WPF + SCICHART
